@@ -1,7 +1,7 @@
 # MaskedFace-Net
 
 <img src="SYL.png"></img>
-MaskedFace-Net is a dataset of human faces with a correctly and incorrectly worn mask (137,016 images) based on the [dataset Flickr-Faces-HQ (FFHQ)](https://github.com/NVlabs/ffhq-dataset). 
+MaskedFace-Net is a dataset of human faces with a correctly or incorrectly worn mask (137,016 images) based on the [dataset Flickr-Faces-HQ (FFHQ)](https://github.com/NVlabs/ffhq-dataset). 
 
 For more details about this work:
 > Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", [arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf), 2020.
