@@ -14,7 +14,7 @@ For more details about this work:
 Note: project leaders equally contributed to this work.
 
 <b>Contributors: </b>
-  - Halim Benhabilès, Yncrea Hauts-de-France, IEMN Lille, halim.benhabiles@yncrea.fr  
+  - Halim Benhabiles, Yncrea Hauts-de-France, IEMN Lille, halim.benhabiles@yncrea.fr  
   - Mahmoud Melkemi, Université de Haute-Alsace, IRIMAS, mahmoud.melkemi@uha.fr
 
 # Dataset
@@ -48,3 +48,34 @@ You can use, redistribute, and adapt it for non-commercial purposes, as long as 
 <li> indicate any changes that you've made, </li>
 <li>and distribute any derivative works under the same license. https://creativecommons.org/licenses/by-nc-sa/4.0/ </li>
 </ol>
+
+# Bibtex references
+> Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", [arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf), 2020.
+
+```
+@misc{cabani2020maskedfacenet,
+    title={MaskedFace-Net -- A Dataset of Correctly/Incorrectly Masked Face Images in the Context of COVID-19},
+    author={Adnane Cabani and Karim Hammoudi and Halim Benhabiles and Mahmoud Melkemi},
+    year={2020},
+    eprint={2008.08016},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
+>Karim Hammoudi, Adnane Cabani, Halim Benhabiles, and Mahmoud Melkemi,"Validating the correct wearing of protection mask by taking a selfie: design of a mobile application "CheckYourMask" to limit the spread of COVID-19", CMES-Computer Modeling in Engineering & Sciences, Vol.124, No.3, pp. 1049-1059, 2020, <a href=https://www.techscience.com/CMES/v124n3/39927>DOI:10.32604/cmes.2020.011663</a>
+
+```
+@Article{cmes.2020.011663,
+    title={Validating the Correct Wearing of Protection Mask by Taking a Selfie: Design of a Mobile Application “CheckYourMask” to Limit the Spread of COVID-19},
+    author={Karim Hammoudi, Adnane Cabani, Halim Benhabiles, Mahmoud Melkemi},
+    journal={Computer Modeling in Engineering \& Sciences},
+    volume={124},
+    year={2020},
+    number={3},
+    pages={1049--1059},
+    url={http://www.techscience.com/CMES/v124n3/39927},
+    issn={1526-1506},
+    doi={10.32604/cmes.2020.011663}
+}
+```
