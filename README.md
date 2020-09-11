@@ -79,3 +79,7 @@ You can use, redistribute, and adapt it for non-commercial purposes, as long as 
     doi={10.32604/cmes.2020.011663}
 }
 ```
+
+# Acknowledgements:
+The authors would like to thank Mr. Jie Feng, Creator of VisualData, for referencing our dataset on his website https://www.visualdata.io/discovery
+
