@@ -81,5 +81,5 @@ You can use, redistribute, and adapt it for non-commercial purposes, as long as 
 ```
 
 # Acknowledgements:
-The authors would like to thank Mr. Jie Feng, Creator of VisualData, for referencing our dataset on his website https://www.visualdata.io/discovery
+The authors would like to thank Mr. Jie Feng, a Columbia University PhD graduate and Creator of VisualData, for referencing our dataset on his website https://www.visualdata.io/discovery
 
