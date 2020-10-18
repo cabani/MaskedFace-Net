@@ -1,7 +1,10 @@
 # MaskedFace-Net
 
 <img alt="Masked Face Covid19 - Safe your life - Wearing a Mask against the Covid-19" src="SYL.png"></img>
-MaskedFace-Net is a dataset of human faces with a correctly or incorrectly worn mask (137,016 images) based on the [dataset Flickr-Faces-HQ (FFHQ)](https://github.com/NVlabs/ffhq-dataset). 
+
+# What is MaskedFace-Net?
+MaskedFace-Net is a dataset of human faces with a correctly or incorrectly worn mask (137,016 images) based on the [dataset Flickr-Faces-HQ (FFHQ)](https://github.com/NVlabs/ffhq-dataset). The wearing of the face masks appears as a solution for limiting the spread of COVID-19. In this context, efficient recognition systems are expected for checking that people faces are masked in regulated areas. To perform this task, a large dataset of masked faces is necessary for training deep learning models towards detecting people wearing masks and those not wearing masks. Some large datasets of masked faces are available in the literature. However, at the moment, there are no available large dataset of masked face images that permits to check if detected masked faces are correctly worn or not. Indeed, many people are not correctly wearing their masks due to bad practices, bad behaviors or vulnerability of individuals (e.g., children, old people). For these reasons, several mask wearing campaigns intend to sensitize people about this problem and good practices. In
+this sense, this work proposes three types of masked face detection dataset; namely, the Correctly Masked Face Dataset (CMFD), the Incorrectly Masked Face Dataset (IMFD) and their combination for the global masked face detection (MaskedFace-Net). Realistic masked face datasets are proposed with a twofold objective: i) to detect people having their faces masked or not masked, ii) to detect faces having their masks correctly worn or incorrectly worn (e.g.; at airport portals or in crowds). To the best of our knowledge, no large dataset of masked faces provides such a granularity of classification towards permitting mask wearing analysis. Moreover, this work globally presents the applied mask-to-face deformable model for permitting the generation of other masked face images, notably with specific masks. 
 
 For more details about this work:
 > Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", [arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf), 2020.
@@ -25,6 +28,11 @@ MaskedFace-Net is available below:
 https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV)
 
 69,823 images with Incorrectly Masked Face Dataset (IMFD) at 1024×1024 - : [Go to OneDrive (20 GB)](https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/EirjS8ew7-5LnO8I56Uk63wBKebwSlukFBFBaO8N25wn3g?e=Ho1jHG)
+
+<img alt="Data tree" width="400px" align="center" src="01.png"/>
+
+<img alt="Data tree" width="800px" align="center" src="02.png"/>
+
 
 <b>Metadata:</b> Each image of the MaskedFace-Net dataset has its corresponding file naming in the FFHQ dataset. Hence, the metadata file “ffhq-dataset-v2.json” (see the [FFHQ webpage](https://github.com/NVlabs/ffhq-dataset)) can be exploited for your processing of MaskedFace-Net.
 
@@ -85,4 +93,5 @@ You can use, redistribute, and adapt it for non-commercial purposes, as long as 
 
 # Acknowledgements:
 The authors would like to thank Mr. Jie Feng, a Columbia University PhD graduate and Creator of VisualData, for referencing our dataset on his website https://www.visualdata.io/discovery
+
 
