@@ -32,8 +32,9 @@ https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzx
 <p align="center">
   <img alt="Data tree" width="400px" align="center" src="01.png"/>
 </p>
-
-<img alt="Data tree" width="800px" align="center" src="02.png"/>
+<p align="center">
+  <img alt="Data tree" width="800px" align="center" src="02.png"/>
+</p>
 
 <b>Metadata:</b> Each image of the MaskedFace-Net dataset has its corresponding file naming in the FFHQ dataset. Hence, the metadata file “ffhq-dataset-v2.json” (see the [FFHQ webpage](https://github.com/NVlabs/ffhq-dataset)) can be exploited for your processing of MaskedFace-Net.
 
