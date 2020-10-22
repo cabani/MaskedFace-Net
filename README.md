@@ -1,8 +1,8 @@
 <p align="right">
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fcabani%2FMaskedFace-Net&t=MaskedFace-Net&quote="><img src="http://acabani.free.fr/github/FB_en.png" alt="facebook " /></a> 
-<a href="https://twitter.com/intent/tweet?text=MaskedFace-Net%20https%3A%2F%2Fgithub.com%2Fcabani%2FMaskedFace-Net&related=AddToAny,micropat"><img src="http://acabani.free.fr/github/tweeter_en.png" alt="tweeter" /></a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fcabani%2FMaskedFace-Net&t=MaskedFace-Net&quote="><img src="http://acabani.free.fr/github/Facebook.png" alt="facebook " /></a> 
+<a href="https://twitter.com/intent/tweet?text=MaskedFace-Net%20https%3A%2F%2Fgithub.com%2Fcabani%2FMaskedFace-Net&related=AddToAny,micropat"><img src="http://acabani.free.fr/github/Twitter.png" alt="tweeter" /></a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fcabani%2FMaskedFace-Net"><img src="http://acabani.free.fr/github/Linkedin.png" alt="linkedin" /></a>
 </p>
-
 # MaskedFace-Net
 
 <img alt="Masked Face Covid19 - Safe your life - Wearing a Mask against the Covid-19" src="SYL.png"></img>
