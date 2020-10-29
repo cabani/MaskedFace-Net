@@ -35,7 +35,7 @@ https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzx
 
 69,823 images with Incorrectly Masked Face Dataset (IMFD) at 1024×1024: [Go to OneDrive (20 GB)](https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/EirjS8ew7-5LnO8I56Uk63wBKebwSlukFBFBaO8N25wn3g?e=Ho1jHG)
 
-To facilitate the downloading of this datatset, we suggest you to use a download manager tool or OneDrive sync client.
+To facilitate the downloading of this dataset, we suggest you to use a download manager tool or OneDrive sync client.
 
 <p align="center">
   <img alt="Data tree" width="400px" align="center" src="01.png"/>
