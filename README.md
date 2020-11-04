@@ -13,7 +13,7 @@ MaskedFace-Net is a dataset of human faces with a correctly or incorrectly worn 
 this sense, this work proposes three types of masked face detection dataset; namely, the Correctly Masked Face Dataset (CMFD), the Incorrectly Masked Face Dataset (IMFD) and their combination for the global masked face detection (MaskedFace-Net). Realistic masked face datasets are proposed with a twofold objective: i) to detect people having their faces masked or not masked, ii) to detect faces having their masks correctly worn or incorrectly worn (e.g.; at airport portals or in crowds). To the best of our knowledge, no large dataset of masked faces provides such a granularity of classification towards permitting mask wearing analysis. Moreover, this work globally presents the applied mask-to-face deformable model for permitting the generation of other masked face images, notably with specific masks. 
 
 For more details about this work:
-> Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", [arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf), 2020.
+> Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, Elsevier, 2020. [accepted, arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf)
 
 # Team
 <b>Project leaders: </b>
@@ -71,16 +71,15 @@ You can use, redistribute, and adapt it for non-commercial purposes, as long as 
 </ol>
 
 # Bibtex references
-> Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", [arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf), 2020.
+> Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, Elsevier, 2020. [accepted, arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf)
 
 ```
-@misc{cabani2020maskedfacenet,
+@Article{cabani.hammoudi.2020.maskedfacenet,
     title={MaskedFace-Net -- A Dataset of Correctly/Incorrectly Masked Face Images in the Context of COVID-19},
     author={Adnane Cabani and Karim Hammoudi and Halim Benhabiles and Mahmoud Melkemi},
+    journal={Smart Health},
     year={2020},
-    eprint={2008.08016},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+    issn={2352-6483}
 }
 ```
 
