@@ -14,7 +14,7 @@ this sense, this work proposes three types of masked face detection dataset; nam
 
 For more details about this work:
 
-`Update 04/11/2020:` New referencing following acceptance in "Smart Health", Elsevier
+`Update November 04, 2020:` New referencing following acceptance in "Smart Health", Elsevier
 
 > Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, Elsevier, 2020. [accepted, arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf)
 
@@ -36,7 +36,11 @@ MaskedFace-Net is available below:
 67,193 images with Correctly Masked Face Dataset (CMFD) at 1024×1024: [Go to OneDrive (19 GB)](
 https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV)
 
-69,823 images with Incorrectly Masked Face Dataset (IMFD) at 1024×1024: [Go to OneDrive (20 GB)](https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/EirjS8ew7-5LnO8I56Uk63wBKebwSlukFBFBaO8N25wn3g?e=Ho1jHG)
+~~69,823 images with Incorrectly Masked Face Dataset (IMFD) at 1024×1024: [Go to OneDrive (20 GB)]()~~
+
+`Update November 15, 2020:` Deletion of 2,923 bad generate images. 
+
+66,900 images with Incorrectly Masked Face Dataset (IMFD) at 1024×1024: [Go to OneDrive (19 GB)](https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/EirjS8ew7-5LnO8I56Uk63wBKebwSlukFBFBaO8N25wn3g?e=Ho1jHG)
 
 To facilitate the downloading of this dataset, we suggest you to use a download manager tool or OneDrive sync client.
 
