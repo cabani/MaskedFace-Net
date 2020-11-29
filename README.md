@@ -16,7 +16,9 @@ For more details about this work:
 
 `Update November 04, 2020:` New referencing following acceptance in "Smart Health", Elsevier
 
-> Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, Elsevier, 2020. [accepted, arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf)
+`Update November 29, 2020:` New referencing with doi following acceptance in "Smart Health", Elsevier
+
+> Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, ISSN 2352-6483, Elsevier, 2020. https://doi.org/10.1016/j.smhl.2020.100144 [Preprint version available at [arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf)]
 
 # Team
 <b>Project leaders: </b>
@@ -78,7 +80,7 @@ You can use, redistribute, and adapt it for non-commercial purposes, as long as 
 </ol>
 
 # Bibtex references
-> Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, Elsevier, 2020. [accepted, arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf)
+> Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, ISSN 2352-6483, Elsevier, 2020, <a href=https://doi.org/10.1016/j.smhl.2020.100144>DOI:10.1016/j.smhl.2020.100144</a> 
 
 ```
 @Article{cabani.hammoudi.2020.maskedfacenet,
@@ -86,7 +88,9 @@ You can use, redistribute, and adapt it for non-commercial purposes, as long as 
     author={Adnane Cabani and Karim Hammoudi and Halim Benhabiles and Mahmoud Melkemi},
     journal={Smart Health},
     year={2020},
-    issn={2352-6483}
+    url ={http://www.sciencedirect.com/science/article/pii/S2352648320300362},
+    issn={2352-6483},
+    doi ={https://doi.org/10.1016/j.smhl.2020.100144}
 }
 ```
 
