@@ -14,9 +14,7 @@ this sense, this work proposes three types of masked face detection dataset; nam
 
 For more details about this work:
 
-`Update November 04, 2020:` New referencing following acceptance in "Smart Health", Elsevier
-
-`Update November 29, 2020:` New referencing with doi following acceptance in "Smart Health", Elsevier
+`Update November 29, 2020:` New referencing following the online appearing on "Smart Health", Elsevier
 
 > Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, ISSN 2352-6483, Elsevier, 2020. https://doi.org/10.1016/j.smhl.2020.100144 [Preprint version available at [arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf)]
 
@@ -74,7 +72,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 <b>The licenses of MaskedFace-Net dataset:</b> The dataset is made available under <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons BY-NC-SA 4.0</a> license by NVIDIA Corporation. 
 You can use, redistribute, and adapt it for non-commercial purposes, as long as you 
 <ol type="a">
-<li> give appropriate credit by citing our papers: <ol type="1"><li>Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, Elsevier, 2020. [accepted, arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf)</li> <li> Karim Hammoudi, Adnane Cabani, Halim Benhabiles, and Mahmoud Melkemi,"Validating the correct wearing of protection mask by taking a selfie: design of a mobile application "CheckYourMask" to limit the spread of COVID-19", CMES-Computer Modeling in Engineering & Sciences, Vol.124, No.3, pp. 1049-1059, 2020, <a href=https://www.techscience.com/CMES/v124n3/39927>DOI:10.32604/cmes.2020.011663</a></li></ol></li>
+<li> give appropriate credit by citing our papers: <ol type="1"><li>Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, ISSN 2352-6483, Elsevier, 2020, <a href=https://doi.org/10.1016/j.smhl.2020.100144>DOI:10.1016/j.smhl.2020.100144</a></li> <li> Karim Hammoudi, Adnane Cabani, Halim Benhabiles, and Mahmoud Melkemi,"Validating the correct wearing of protection mask by taking a selfie: design of a mobile application "CheckYourMask" to limit the spread of COVID-19", CMES-Computer Modeling in Engineering & Sciences, Vol.124, No.3, pp. 1049-1059, 2020, <a href=https://www.techscience.com/CMES/v124n3/39927>DOI:10.32604/cmes.2020.011663</a></li></ol></li>
 <li> indicate any changes that you've made, </li>
 <li>and distribute any derivative works under the same license. https://creativecommons.org/licenses/by-nc-sa/4.0/ </li>
 </ol>
