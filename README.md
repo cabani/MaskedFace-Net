@@ -112,4 +112,11 @@ You can use, redistribute, and adapt it for non-commercial purposes, as long as 
 # Acknowledgements:
 The authors would like to thank Mr. Jie Feng, a Columbia University PhD graduate and Creator of VisualData, for referencing our dataset on his website https://www.visualdata.io/discovery
 
+# Press:
+Press:
+
+Stacy Stanford, Roberto Iriondo, Pratik Shukla (January 5, 2021), "Best Public Datasets for Machine Learning and Data Science", https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+
+Purva Huilgol (December 15, 2020), "Top 15 Open-Source Datasets of 2020 that every Data Scientist Should add to their Portfolio!", https://www.analyticsvidhya.com/blog/2020/12/top-15-datasets-of-2020-that-every-data-scientist-should-add-to-their-portfolio/
+
 
