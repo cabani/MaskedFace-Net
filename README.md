@@ -44,6 +44,12 @@ https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzx
 
 To facilitate the downloading of this dataset, we suggest you to use a download manager tool or OneDrive sync client.
 
+`Update January 15, 2021:` Add mirror link on Google Drive.
+
+Zip file CMFD: [Part 1](https://drive.google.com/file/d/1uOTWfdD2lnIn8mZCrnw61-IA9i2VHEHM/view?usp=sharing) - [Part 2](https://drive.google.com/file/d/1q1OATGDaxFok2Sv6aPQESWUluiwDQT5N/view?usp=sharing)
+
+Zip file IMFD: [Part 1](https://drive.google.com/file/d/1VKh8QKTlbX2mwrFDTuFVSKwb17vmrOna/view?usp=sharing) - [Part 2](https://drive.google.com/file/d/1sWynGsh9BEO49cXjRjeagXevXbJ5w3bY/view?usp=sharing)
+
 <p align="center">
   <img alt="Data tree" width="400px" align="center" src="01.png"/>
 </p>
