@@ -120,10 +120,10 @@ The authors would like to thank Mr. Jie Feng, a Columbia University PhD graduate
 
 # Press:
 
+OrangeTree Global, Business Intelligence and Business Analytics Training Organization (January 9, 2021), “Top Free COVID dataset for Analytics professionals”, https://orangetreeglobal.com/top-free-covid-dataset-for-analytics-professionals/
+
 Stacy Stanford, Roberto Iriondo, Pratik Shukla (January 5, 2021), "Best Public Datasets for Machine Learning and Data Science", https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
 
 Purva Huilgol (December 15, 2020), "Top 15 Open-Source Datasets of 2020 that every Data Scientist Should add to their Portfolio!", https://www.analyticsvidhya.com/blog/2020/12/top-15-datasets-of-2020-that-every-data-scientist-should-add-to-their-portfolio/
-
-OrangeTree Global, Business Intelligence and Business Analytics Training Organization (January 9, 2021), “Top Free COVID dataset for Analytics professionals”, https://orangetreeglobal.com/top-free-covid-dataset-for-analytics-professionals/
 
 
