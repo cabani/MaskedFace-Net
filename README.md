@@ -33,14 +33,12 @@ Note: project leaders equally contributed to this work.
 
 MaskedFace-Net is available below:
 
-67,193 images with Correctly Masked Face Dataset (CMFD) at 1024×1024: [Go to OneDrive (19 GB)](
+`Update January 28, 2020:` Refined selection of the incorrectly masked face images. 
+
+67,049 images with Correctly Masked Face Dataset (CMFD) at 1024×1024: [Go to OneDrive (19 GB)](
 https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/Ev3GdnQSyzxPjyzU5ElHqagBlkRCaKnnCI85iX-d1L4OHA?e=G7uaYV)
 
-~~69,823 images with Incorrectly Masked Face Dataset (IMFD) at 1024×1024: [Go to OneDrive (20 GB)]()~~
-
-`Update November 15, 2020:` Refined selection of the incorrectly masked face images. 
-
-66,900 images with Incorrectly Masked Face Dataset (IMFD) at 1024×1024: [Go to OneDrive (19 GB)](https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/EirjS8ew7-5LnO8I56Uk63wBKebwSlukFBFBaO8N25wn3g?e=Ho1jHG)
+66,734 images with Incorrectly Masked Face Dataset (IMFD) at 1024×1024: [Go to OneDrive (19 GB)](https://esigelec-my.sharepoint.com/:f:/g/personal/cabani_esigelec_fr/EirjS8ew7-5LnO8I56Uk63wBKebwSlukFBFBaO8N25wn3g?e=Ho1jHG)
 
 To facilitate the downloading of this dataset, we suggest you to use a download manager tool or OneDrive sync client.
 
