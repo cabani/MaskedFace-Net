@@ -118,6 +118,8 @@ The authors would like to thank Mr. Jie Feng, a Columbia University PhD graduate
 
 # Press:
 
+Arthur Fortes (February 4, 2021), “Building a Personalized Face Mask Detection Using OpenCV and Deep Learning)”, https://fortes-arthur.medium.com/building-a-personalized-face-mask-detection-using-opencv-and-deep-learning-4aae008c95a0
+
 OrangeTree Global, Business Intelligence and Business Analytics Training Organization (January 9, 2021), “Top Free COVID dataset for Analytics professionals”, https://orangetreeglobal.com/top-free-covid-dataset-for-analytics-professionals/
 
 Stacy Stanford, Roberto Iriondo, Pratik Shukla (January 5, 2021), "Best Public Datasets for Machine Learning and Data Science", https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
