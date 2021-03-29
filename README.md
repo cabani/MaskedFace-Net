@@ -121,6 +121,8 @@ The authors would like to thank:
 
 # Press:
 
+Jolibrain, AI software and services (March 26, 2021), “Removing face masks with JoliGAN”, https://www.deepdetect.com/blog/15-face-masks-gan/
+
 Arthur Fortes (February 4, 2021), “Building a Personalized Face Mask Detection Using OpenCV and Deep Learning)”, https://fortes-arthur.medium.com/building-a-personalized-face-mask-detection-using-opencv-and-deep-learning-4aae008c95a0
 
 OrangeTree Global, Business Intelligence and Business Analytics Training Organization (January 9, 2021), “Top Free COVID dataset for Analytics professionals”, https://orangetreeglobal.com/top-free-covid-dataset-for-analytics-professionals/
