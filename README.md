@@ -18,6 +18,12 @@ For more details about this work:
 
 > Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, ISSN 2352-6483, Elsevier, 2020. https://doi.org/10.1016/j.smhl.2020.100144 [Preprint version available at [arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf)]
 
+# Recognition results
+
+<p align="center">
+  <img alt="Result gif" align="center" src="Result.gif"/>
+</p>
+
 # Team
 <b>Project leaders: </b>
   - Adnane Cabani, ESIGELEC/IRSEEM, adnane.cabani@esigelec.fr 
@@ -28,6 +34,7 @@ Note: project leaders equally contributed to this work.
 <b>Contributors: </b>
   - Halim Benhabiles, Yncrea Hauts-de-France, IEMN Lille, halim.benhabiles@yncrea.fr  
   - Mahmoud Melkemi, Université de Haute-Alsace, IRIMAS, mahmoud.melkemi@uha.fr
+  - Junhao Cao, Internship student at ESIGELEC
 
 # Dataset
 
