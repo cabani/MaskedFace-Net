@@ -18,6 +18,8 @@ For more details about this work:
 
 > Adnane Cabani, Karim Hammoudi, Halim Benhabiles, and Mahmoud Melkemi, "MaskedFace-Net - A dataset of correctly/incorrectly masked face images in the context of COVID-19", Smart Health, ISSN 2352-6483, Elsevier, 2020. https://doi.org/10.1016/j.smhl.2020.100144 [Preprint version available at [arXiv:2008.08016](https://arxiv.org/pdf/2008.08016.pdf)]
 
+`Update March 11, 2022:` Our article mentioned above has received the [Best Paper Awards 2021](https://www.journals.elsevier.com/smart-health/awards/smart-health-best-paper-awards-2021) of the journal Smart Health, Elsevier.
+
 # Recognition results
 
 <p align="center">
